@@ -6,7 +6,7 @@
 
 
 
-**Prérequi** 
+**Prérequis** 
 
 > Assurez-vous d'avoir installé les outils suivants :
 
