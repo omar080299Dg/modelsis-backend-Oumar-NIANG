@@ -6,7 +6,7 @@ Ce projet implémente les opérations CRUD (Create, Read, Update, Delete) pour l
 
 
 
-** Prérequis ** 
+**Prérequi** 
 
 Assurez-vous d'avoir installé les outils suivants :
 
@@ -18,7 +18,7 @@ Apache Maven
 Docker (si vous souhaitez créer une image Docker)
 
 
-** Technologies utilisées **
+**Technologies utilisées**
 
 
 Spring Boot
@@ -29,7 +29,7 @@ Spring Web
 
 Hibernate
 
-** Installation  **
+**Installation**
 
 Clonez ce dépôt :
 
@@ -39,7 +39,7 @@ Accédez au répertoire du projet :
  
 cd crud
 
-** Utilisation des endpoints CRUD **
+**Utilisation des endpoints CRUD**
 
 Product
 
