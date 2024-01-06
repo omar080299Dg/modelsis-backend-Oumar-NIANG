@@ -11,45 +11,45 @@
 > Assurez-vous d'avoir installé les outils suivants :
 
 
-Java JDK
+> Java JDK
 
-Apache Maven
+> Apache Maven
 
-Docker (si vous souhaitez créer une image Docker)
+> Docker (si vous souhaitez créer une image Docker)
 
 
 **Technologies utilisées**
 
 
-Spring Boot
+> Spring Boot
 
-Spring Data JPA
+> Spring Data JPA
 
-Spring Web
+> Spring Web
 
-Hibernate
+> Hibernate
 
 **Installation**
 
-Clonez ce dépôt :
+> Clonez ce dépôt :
 
-git clone https://github.com/modelsis-backend-Oumar-NIANG.git
+> git clone https://github.com/modelsis-backend-Oumar-NIANG.git
 
-Accédez au répertoire du projet :
+> Accédez au répertoire du projet :
  
-cd crud
+> cd crud
 
 **Utilisation des endpoints CRUD**
 
-Product
+> Product
 
-GET /api/product: Récupérer tous les produits
+> GET /api/product: Récupérer tous les produits
 
-POST /api/product : Créer un nouveau produit
+> POST /api/product : Créer un nouveau produit
 
-PUT /api/product/{id} : Mettre à jour un produit existant par ID
+> PUT /api/product/{id} : Mettre à jour un produit existant par ID
 
  
-ProductType
+> ProductType
 
-GET /api/productType : Récupérer tous les types de produit
+> GET /api/productType : Récupérer tous les types de produit
