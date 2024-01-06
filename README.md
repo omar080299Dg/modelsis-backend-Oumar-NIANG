@@ -2,13 +2,13 @@
 
 
 
-Ce projet implémente les opérations CRUD (Create, Read, Update, Delete) pour les entités Product et ProductType en utilisant Spring Boot, Spring Data JPA et Maven
+> Ce projet implémente les opérations CRUD (Create, Read, Update, Delete) pour les entités Product et ProductType en utilisant Spring Boot, Spring Data JPA et Maven
 
 
 
 **Prérequi** 
 
-Assurez-vous d'avoir installé les outils suivants :
+> Assurez-vous d'avoir installé les outils suivants :
 
 
 Java JDK
